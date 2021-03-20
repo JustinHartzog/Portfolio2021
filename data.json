@@ -14,8 +14,8 @@
             "project_name":"IP Address Tracker",
             "description": "IP Address Tracker app using the IP Geolocation API by IPify to find the location of an IP address and using it to generate a map using LeafletJS.",
             "technologies": ["JS", "CSS", "HTML", "API"],
-            "live_link": "https://justinhartzog.github.io/Blog/",
-            "github_link": "https://github.com/JustinHartzog/",
+            "live_link": "https://justinhartzog.github.io/iP-Address-Tracker/",
+            "github_link": "https://github.com/JustinHartzog/iP-Address-Tracker",
             "image_urls": ["/static/images/pro8.0.png", "/static/images/pro8.1.png", "/static/images/pro8.2.png"]
         },
         {
