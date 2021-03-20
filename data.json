@@ -6,6 +6,7 @@
             "description": "This project was in response to our previous help center not being very user friendly and helpful to the customer. I worked with the product manager and other executives to go over wireframes and converting those over to the usable interface",
             "technologies": ["JS", "CSS", "HTML"],
             "live_link": "https://frndlytv.freshdesk.com/support/home",
+            "github_link": "https://github.com/JustinHartzog/",
             "image_urls": ["/static/images/pro9.0.png", "/static/images/pro9.1.png", "/static/images/pro9.2.png"]
         },
         {
@@ -14,7 +15,7 @@
             "description": "IP Address Tracker app using the IP Geolocation API by IPify to find the location of an IP address and using it to generate a map using LeafletJS.",
             "technologies": ["JS", "CSS", "HTML", "API"],
             "live_link": "https://justinhartzog.github.io/Blog/",
-            "github_link": "https://github.com/JustinHartzog/Blog",
+            "github_link": "https://github.com/JustinHartzog/",
             "image_urls": ["/static/images/pro8.0.png", "/static/images/pro8.1.png", "/static/images/pro8.2.png"]
         },
         {
